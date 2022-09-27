@@ -1,9 +1,9 @@
 # Wonderful Landing Page Template
 
-### <a href="https://wonderfullandingpage.github.io/mylandingpage/">LIVE DEMO</a> 
+### <a href="https://landingpage207.herokuapp.com/">LIVE DEMO</a> 
 
-![](https://github.com/wonderfullandingpage/mylandingpage/blob/master/imgs/01.jpg?raw=true)
-![](https://github.com/wonderfullandingpage/mylandingpage/blob/master/imgs/02.jpg?raw=true)
+![](https://github.com/Jannowak207/wonderfullandingpage/tree/master/imgs/01.jpg?raw=true)
+![](https://github.com/Jannowak207/wonderfullandingpage/tree/master/imgs/02.jpg?raw=true)
 
 ## Description
 This is a ReactJS based landing page template, fit for a startup company/service with a one page view.All 'visual' data can be easily modified by changing the data.json file. The project fork is from https://github.com/issaafalkattan/React-Landing-Page-Template. Thanks to the author for a great project.
